@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sandeep Sathsara</h1>
-<h3 align="center">A passionate Mobile App developer from Srilanka</h3>
+<h1 align="center">Hi 👋, I'm Kavindu Kaushika</h1>
+<h3 align="center">A passionate web developer from Srilanka</h3>
 
-- 🔭 I’m currently working on *LinkUP project*
 
-- 🌱 I’m currently learning *Flutter , React , Python*
+- 🌱 I’m currently learning *js , c# , Python*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
